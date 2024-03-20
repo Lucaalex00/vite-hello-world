@@ -17,7 +17,7 @@ export default {
 
 <style>
 
-h1{
+h1,p{
   color: red;
   background-color: #cecece;
   width: 10%;
